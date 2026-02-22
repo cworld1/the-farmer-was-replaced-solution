@@ -21,7 +21,7 @@ def pumpkins():
                 continue
 
             # Goto
-            libs.goto(key[1], key[2])
+            libs.goto(key[0], key[1])
 
             # Check
             if get_entity_type() == Entities.Pumpkin:
