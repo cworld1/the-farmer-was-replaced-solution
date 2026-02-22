@@ -1,2 +1,6 @@
-__builtins__.py
+# Game data
+/__builtins__.py
+/save.json
+
+# Custom
 test.py
